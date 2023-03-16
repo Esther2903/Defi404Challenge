@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="http://raissadjs29.epizy.com">
+    <a href="https://esther2903.github.io/Defi404Challenge/">
       Demo
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [raissadjs29.epizy.com](http://raissadjs29.epizy.com)
+- Website [@website.com](https://your-website.com)
 - GitHub [@Esther2903](https://github.com/Esther2903)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
